@@ -1,7 +1,7 @@
 # Dos requisitos à entrega contínua
     Uma abordagem prática e online usando tdd
 # Requisitos funcionais: o que desenvolver?
-    Desenvolver uma classe núcleo de uma conta bancária utilizando a linguagem Java, que deve realizar três operações:
+    Desenvolver uma classe núcleo de uma conta bancária utilizando a linguagem Java, que deve realizar as três operações seguintes:
     
     -deposito(double valor): incrementa o saldo com o valor passado como parâmetro
     -saque(double valor): decrementa o saldo com o valor passado como parâmetro
