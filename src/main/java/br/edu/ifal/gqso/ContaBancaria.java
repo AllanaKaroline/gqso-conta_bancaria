@@ -30,10 +30,10 @@ public class ContaBancaria {
         }
     }
     
-    public void deposito(double valor)
+    public void deposito(double valor_dep)
     {
-        saldo += valor;
-        System.out.println("Depositado: " + valor);
+        saldo += valor_dep;
+        System.out.println("Depositado: " + valor_dep);
         System.out.println("Novo saldo: " + saldo + "\n");
     }
     
