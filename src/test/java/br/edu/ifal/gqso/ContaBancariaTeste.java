@@ -9,6 +9,13 @@ public class ContaBancariaTeste {
     public void depositoTest(double valor_dep, double saldo_inicial){
         assertEquals((valor_dep+ saldo_inicial)==valor_dep);
         }
+
+        @Test
+        public void saldoTest(){
+            assertEquals(saldo>=(saldo_inicial));
+        }
     }
+
     
+
 
